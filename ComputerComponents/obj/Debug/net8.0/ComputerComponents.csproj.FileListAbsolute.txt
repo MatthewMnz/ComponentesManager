@@ -1,0 +1,14 @@
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/bin/Debug/net8.0/ComputerComponents
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/bin/Debug/net8.0/ComputerComponents.deps.json
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/bin/Debug/net8.0/ComputerComponents.runtimeconfig.json
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/bin/Debug/net8.0/ComputerComponents.dll
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/bin/Debug/net8.0/ComputerComponents.pdb
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.AssemblyInfoInputs.cache
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.AssemblyInfo.cs
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.csproj.CoreCompileInputs.cache
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.dll
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/refint/ComputerComponents.dll
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.pdb
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ComputerComponents.genruntimeconfig.cache
+/Users/mattnzv/Desktop/PROYECTO RYZEN/ComputerComponents/obj/Debug/net8.0/ref/ComputerComponents.dll
